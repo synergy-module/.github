@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/synergy-banner-motion.svg" width="100%" alt="Animated Synergy Module banner: developers, traders, and entrepreneurs building together" />
+  <img src="./assets/synergy-banner-electro.svg" width="100%" alt="Animated Synergy Module banner: developers, traders, and entrepreneurs building together" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 We build around real workflows: understanding a market, testing an idea, using a tool, and learning from the result. Trading is a major focus today, and we are also exploring applications that make collaboration and everyday work easier.
 
 <p align="center">
-  <img src="./assets/synergy-loop.svg" width="100%" alt="Animated loop showing how Synergy Module builds, tests, learns, and improves" />
+  <img src="./assets/synergy-loop-electro.svg" width="100%" alt="Animated loop showing how Synergy Module builds, tests, learns, and improves" />
 </p>
 
 ## What we work on
