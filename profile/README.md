@@ -7,11 +7,28 @@
   We are developers, traders, and entrepreneurs creating software we want to use ourselves as we work toward financial independence.
 </p>
 
-<p align="center">
-  <a href="#what-we-work-on"><strong>What we build</strong></a> &nbsp;·&nbsp;
-  <a href="https://x.com/synergymodule">Follow on X / Twitter</a> &nbsp;·&nbsp;
-  <a href="https://discord.gg/dhGErPrGny">Join the Discord</a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://x.com/synergymodule">
+        <img src="./assets/social-x-electro.svg" width="72" height="72" alt="" /><br />
+        <strong>X / Twitter</strong>
+      </a>
+    </td>
+    <td align="center" width="34%">
+      <a href="https://discord.gg/dhGErPrGny">
+        <img src="./assets/social-discord-electro.svg" width="72" height="72" alt="" /><br />
+        <strong>Discord</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://whop.com/synergymodule/">
+        <img src="./assets/social-whop-electro.svg" width="72" height="72" alt="" /><br />
+        <strong>Whop</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,21 +54,21 @@ We build around real workflows: understanding a market, testing an idea, using a
 <details>
 <summary><strong>I trade or study markets</strong></summary>
 
-We are building applications around trade journaling, market context, practice, and research. Have a workflow you wish worked better? [Tell us in Discord](https://discord.gg/dhGErPrGny).
+We are building applications around trade journaling, market context, practice, and research. Share the workflow you wish worked better with our community.
 
 </details>
 
 <details>
 <summary><strong>I build software or work with agents</strong></summary>
 
-We are interested in useful interfaces, reliable agent workflows, clear research records, and tools that help small teams move ideas forward. [Meet the team in Discord](https://discord.gg/dhGErPrGny) to discuss building together.
+We are interested in useful interfaces, reliable agent workflows, clear research records, and tools that help small teams move ideas forward. We welcome developers who want to help turn those ideas into working tools.
 
 </details>
 
 <details>
 <summary><strong>I have an idea or want to collaborate</strong></summary>
 
-Bring us the problem you want to solve, the workflow you use today, or an experiment you want to test. [Join the conversation](https://discord.gg/dhGErPrGny) and follow [@synergymodule](https://x.com/synergymodule) for updates.
+Bring us the problem you want to solve, the workflow you use today, or an experiment you want to test. Use the community ribbon above to connect with us.
 
 </details>
 
@@ -60,11 +77,5 @@ Bring us the problem you want to solve, the workflow you use today, or an experi
 **Build something useful. Test it carefully. Keep the evidence. Improve the next version.**
 
 We distinguish backtests, paper results, simulated orders, and live activity. Our aim is to make assumptions, risk checks, and human decisions visible so that users can understand what a tool actually does.
-
-<p align="center">
-  <a href="#what-we-work-on">Explore our focus areas</a> &nbsp;·&nbsp;
-  <a href="https://discord.gg/dhGErPrGny">Talk with us</a> &nbsp;·&nbsp;
-  <a href="https://x.com/synergymodule">Follow our progress</a>
-</p>
 
 <sub>We build software and conduct trading research. This page does not promise returns or provide financial advice.</sub>

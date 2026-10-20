@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Whop</title>
+  <desc id="desc">A white Whop icon framed by an animated electric signal.</desc>
+  <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071529"/>
+      <stop offset="1" stop-color="#171a3e"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop stop-color="#73c4ff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#73c4ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="94" height="94" rx="20" fill="url(#surface)" stroke="#294363"/>
+  <path d="M2 26h11l8-8h8M67 78h8l8-8h11" fill="none" stroke="#73c4ff" stroke-opacity="0.28"/>
+  <circle cx="48" cy="48" r="37" fill="url(#aura)"/>
+  <circle cx="48" cy="48" r="33" fill="none" stroke="#73c4ff" stroke-opacity="0.2"/>
+  <g class="motion">
+    <circle cx="48" cy="48" r="33" fill="none" stroke="#73c4ff" stroke-width="1.5" stroke-dasharray="12 195" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 48 48" to="360 48 48" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <circle cx="48" cy="15" r="5" fill="#73c4ff" opacity="0.13"/>
+      <circle cx="48" cy="15" r="2" fill="#73c4ff"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 48 48" to="360 48 48" dur="20s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <svg x="26" y="36.67" width="44" height="22.66" viewBox="0 0 1000 515">
+      <path d="M158.881 -0.00366211C93.2014 -0.00366211 47.9251 28.989 13.6619 61.7749C13.6619 61.7749 -0.173169 74.965 0.00164277 75.3669L143.897 220.129L287.766 75.3669C260.521 37.6314 209.152 -0.00366211 158.881 -0.00366211Z" fill="#f1f5ff"/>
+      <path d="M514.191 -0.00354004C448.513 -0.00354004 403.236 28.9891 368.971 61.7751C368.971 61.7751 356.336 74.6134 355.763 75.3671L177.903 254.322L321.574 398.857L643.077 75.3671C615.831 37.6316 564.488 -0.00354004 514.191 -0.00354004Z" fill="#f1f5ff"/>
+      <path d="M870.479 -0.00354004C804.798 -0.00354004 759.524 28.9891 725.259 61.7751C725.259 61.7751 712.098 74.7138 711.6 75.3671L355.806 433.351L393.466 471.237C451.73 529.852 547.101 529.852 605.365 471.237L998.914 75.3671H999.365C972.119 37.6316 920.773 -0.00354004 870.479 -0.00354004Z" fill="#f1f5ff"/>
+  </svg>
+</svg>
